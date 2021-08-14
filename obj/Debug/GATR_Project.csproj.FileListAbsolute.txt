@@ -1,0 +1,16 @@
+C:\Users\nukkl\RiderProjects\GATR_Project\GATR_Project\bin\Debug\GATR_Project.exe.config
+C:\Users\nukkl\RiderProjects\GATR_Project\GATR_Project\bin\Debug\GATR_Project.exe
+C:\Users\nukkl\RiderProjects\GATR_Project\GATR_Project\bin\Debug\GATR_Project.pdb
+C:\Users\nukkl\RiderProjects\GATR_Project\GATR_Project\obj\Debug\GATR_Project.csproj.AssemblyReference.cache
+C:\Users\nukkl\RiderProjects\GATR_Project\GATR_Project\obj\Debug\MainWindow.g.cs
+C:\Users\nukkl\RiderProjects\GATR_Project\GATR_Project\obj\Debug\App.g.cs
+C:\Users\nukkl\RiderProjects\GATR_Project\GATR_Project\obj\Debug\GATR_Project_MarkupCompile.cache
+C:\Users\nukkl\RiderProjects\GATR_Project\GATR_Project\obj\Debug\GATR_Project_MarkupCompile.lref
+C:\Users\nukkl\RiderProjects\GATR_Project\GATR_Project\obj\Debug\MainWindow.baml
+C:\Users\nukkl\RiderProjects\GATR_Project\GATR_Project\obj\Debug\GATR_Project.g.resources
+C:\Users\nukkl\RiderProjects\GATR_Project\GATR_Project\obj\Debug\GATR_Project.Properties.Resources.resources
+C:\Users\nukkl\RiderProjects\GATR_Project\GATR_Project\obj\Debug\GATR_Project.csproj.GenerateResource.cache
+C:\Users\nukkl\RiderProjects\GATR_Project\GATR_Project\obj\Debug\GATR_Project.csproj.CoreCompileInputs.cache
+C:\Users\nukkl\RiderProjects\GATR_Project\GATR_Project\obj\Debug\GATR_Project.exe
+C:\Users\nukkl\RiderProjects\GATR_Project\GATR_Project\obj\Debug\GATR_Project.pdb
+C:\Users\nukkl\RiderProjects\GATR_Project\GATR_Project\obj\Debug\GATR_Project_Content.g.cs
